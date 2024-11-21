@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "sycorak",
+            "address": "https://anisette-v3-server-sr4l.onrender.com"
+        }
+    ]
+}
